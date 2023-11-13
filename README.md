@@ -9,7 +9,7 @@ I'm Eugenio Pasqua, a seasoned professional with nearly 10 years of experience i
 
 - 💼 My role experience focus on :
 
-    Data Engineering Analyst: Over my career, I've been involved in various roles where I've applied Data Science techniques, used tools like Python (Pandas, Numpy), and SQL for data analysis.I've developed data integration solutions using SQL Server Integration Services (SSIS) and built multidimensional data cubes using SQL Server Analysis Services (SSAS).
+    Data Engineering Analyst: Over my career, I've been involved in various roles where I've applied Data Science techniques, used tools like Python (Pandas, Numpy), R Language and SQL for data analysis.I've developed data integration solutions using SQL Server Integration Services (SSIS) and built multidimensional data cubes using SQL Server Analysis Services (SSAS).
  I've gained expertise as a Database Administrator, particularly with Microsoft SQL Server, and have worked on query optimization and data modeling.
  I have experience with reporting services, utilizing tools like POWERBI/TABLEAU and SQL Server Reporting Services (SSRS) to create insightful visualizations.
 
