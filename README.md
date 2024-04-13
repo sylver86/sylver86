@@ -26,4 +26,5 @@ For me, technology is not just a profession; it's a way of life. I approach it w
     
 - 📫 How to reach me: https://www.linkedin.com/in/genxdata58296/
 
-- This is the link to my portfolio projects dedicated to Machine Learning, Deep Learning, and Data Engineering : https://github.com/sylver86?tab=repositories
+- This is the link to my portfolio projects dedicated to Machine Learning, Deep Learning, and Data Engineering :
+  https://github.com/sylver86?tab=repositories
