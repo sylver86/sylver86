@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **7 years of hands-on experience** in the Data Science field. 
+I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **7 years of hands-on experience** in the Data Science field. I hold a **Bachelor’s Degree in Computer Science** (Systematic/Technological specialization) from the University of Catania.  
 I thrive at the intersection of **Data Engineering and Machine Learning**, consistently seeking new challenges and innovations.
 
 ---
@@ -29,15 +29,6 @@ I thrive at the intersection of **Data Engineering and Machine Learning**, consi
 - In the future, I plan to pursue a **dedicated AI Engineering program**, allowing me to focus even more on **neural networks** and **MLOps**, thereby enhancing my expertise in developing **end-to-end** AI solutions.  
 - I consider the synergy of **Data Engineering** and **Machine Learning** crucial, as it provides me with **cutting-edge skills** for real-world, **end-to-end** innovation and problem-solving.
 
-
----
-
-### 🎓 Other Academic & Ongoing Education
-- I hold a **Bachelor’s Degree in Computer Science** (Systematic/Technological specialization) from the University of Catania.  
-- To further expand my **cloud and streaming** capabilities, I’m diving deeper into **DevOps** and actively preparing for the **Microsoft Certified: Azure Data Engineer Associate** exam.  
-- My continuous learning ensures I stay ahead of **emerging tech trends** in Data Engineering, AI, and beyond.
-
----
 
 ### 🚀 Passion for Innovation
 - Technology is more than just a career—it’s a way of life.  
