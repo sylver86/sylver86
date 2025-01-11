@@ -17,6 +17,12 @@ I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **7 years of hand
 
 ---
 
+🗺️ Geospatial Analysis
+I also have GIS expertise, working with tools like Python (geospatial libraries), QGIS, and ArcGIS to perform geospatial analysis and handle location-based data.
+This skill set enables me to clean, visualize, and analyze geospatial datasets, deriving meaningful insights for projects that require location intelligence and spatial decision-making.
+
+---
+
 ### 🤖 AI Engineering Ambitions
 - Complementing my data background, I’m enrolled in a specialized **Master’s in AI Engineering**, delving into advanced **Machine Learning**, **Deep Learning**, **Natural Language Processing**,**Big Data**, **Computer Vision**, **C++**, **Tensorflow** and **Scikit-learn**.  
 - I consider the synergy of **Data Engineering** and **AI** crucial, as it equips me with cutting-edge skills for real-world innovation and problem-solving.
