@@ -17,14 +17,14 @@ I’m **Eugenio Pasqua**, an IT professional with **7 years** in Data Science, b
 ---
 
 ### 📌 Data Engineering Specialization
-- **Master’s in Data Engineering**: DevOps, data streaming, cloud (Azure/AWS/Snowflake)  
+- **Master’s in Data Engineering ongoing**: DevOps, data streaming, cloud (Azure/AWS/Snowflake)  
 - **Projects**: Building end-to-end pipelines and advanced data solutions  
 - **Goal**: Microsoft Certified: Azure Data Engineer Associate
 
 ---
 
 ### 🤖 AI Engineering Ambitions
-- **Master’s in Data Science**: ML, DL, NLP, Computer Vision, C++, Python, Big Data  
+- **Master’s in Data Science completed**: ML, DL, NLP, Computer Vision, C++, Python, Big Data  
 - **Future AI Program**: Deeper focus on neural networks and MLOps for end-to-end AI solutions  
 - **Synergy**: Data Engineering + ML = cutting-edge skills for real-world innovation
 
