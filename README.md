@@ -5,7 +5,7 @@ I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **10 years of han
 ---
 
 ### 🔧 Data Engineering & Analysis
-- Over my career, I’ve built **robust data pipelines** with SQL Server Integration Services (SSIS), crafted **OLAP cubes** via SQL Server Analysis Services (SSAS), and created **insightful visualizations** using tools like **Power BI** and **SSRS**.  
+- Over my career, I’ve built **robust data pipelines** with SQL Server Integration Services (SSIS), crafted **OLAP cubes** via SQL Server Analysis Services (SSAS), and created **insightful visualizations** using tools like **Power BI, Qlik, Tableau** and **SSRS**.  
 - My strong **SQL Server administration** background, combined with **query optimization** and **data modeling** skills, forms a solid foundation that allows me to handle data challenges of varying complexity.
 
 ---
