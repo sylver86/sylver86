@@ -18,8 +18,8 @@ I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **10 years of han
 ---
 
 ### 🤖 AI Engineering Ambitions
-- Complementing my data background, I’m enrolled in a specialized **Master’s in AI Engineering**, delving into advanced **Machine Learning**, **MLOps CI/CD**, **Deep Learning**, **Generative AI**, **Computer Vision**, **C++**, and **Explainable AI**.  
-- This synergy of **Data Engineering and AI** equips me with cutting-edge skills for real-world innovation and problem-solving.
+- Complementing my data background, I’m enrolled in a specialized **Master’s in AI Engineering**, delving into advanced **Machine Learning**, **Deep Learning**, **Natural Language Processing**,**Big Data**, **Computer Vision**, **C++**, **Tensorflow** and **Scikit-learn**.  
+- I consider the synergy of **Data Engineering** and **AI** crucial, as it equips me with cutting-edge skills for real-world innovation and problem-solving.
 
 ---
 
