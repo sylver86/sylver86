@@ -10,22 +10,22 @@ I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **7 years of hand
 
 ---
 
-### 📌 Data Engineering Specialization
-- In addition to my AI-focused path, I’m currently pursuing a **Master’s in Data Engineering** to strengthen my skills in **DevOps**, **streaming** and **cloud platform**.
-- I want to develop various projects under this specialization, focusing on end-to-end data pipelines and advanced data solutions.
-- I’m also on track to earn the **Microsoft Certified: Azure Data Engineer Associate** certification, reflecting my dedication to **end-to-end** data engineering solutions across various complex systems.
+### 🗺️ Geospatial Analysis
+- I also have **GIS** expertise, working with tools like **Python (geospatial libraries)**, **QGIS**, and **ArcGIS** to perform **geospatial analysis** and handle location-based data.  
+- This skill set enables me to **clean**, **visualize**, and **analyze** geospatial datasets, deriving meaningful insights for projects that require **location intelligence** and **spatial decision-making**.
 
 ---
 
-🗺️ Geospatial Analysis
-I also have GIS expertise, working with tools like Python (geospatial libraries), QGIS, and ArcGIS to perform geospatial analysis and handle location-based data.
-This skill set enables me to clean, visualize, and analyze geospatial datasets, deriving meaningful insights for projects that require location intelligence and spatial decision-making.
+### 📌 Data Engineering Specialization
+- In addition to my AI-focused path, I’m currently pursuing a **Master’s in Data Engineering** to strengthen my skills in **DevOps**, **streaming**, **cloud**, and advanced analytics.  
+- I want to develop **various personal projects** under this specialization, focusing on **end-to-end** data pipelines and advanced data solutions.  
+- I’m also on track to earn the **Microsoft Certified: Azure Data Engineer Associate** certification, reflecting my dedication to building comprehensive data engineering solutions across complex systems.
 
 ---
 
 ### 🤖 AI Engineering Ambitions
-- Complementing my data background, I’m enrolled in a specialized **Master’s in AI Engineering**, delving into advanced **Machine Learning**, **Deep Learning**, **Natural Language Processing**,**Big Data**, **Computer Vision**, **C++**, **Tensorflow** and **Scikit-learn**.  
-- I consider the synergy of **Data Engineering** and **AI** crucial, as it equips me with cutting-edge skills for real-world innovation and problem-solving.
+- Complementing my data background, I’m enrolled in a specialized **Master’s in AI Engineering**, delving into advanced **Machine Learning**, **MLOps CI/CD**, **Deep Learning**, **Generative AI**, **Computer Vision**, **C++**, and **Explainable AI**.  
+- I consider the synergy of **Data Engineering** and **AI** crucial, as it equips me with **cutting-edge skills** for real-world innovation and problem-solving.
 
 ---
 
@@ -39,7 +39,7 @@ This skill set enables me to clean, visualize, and analyze geospatial datasets, 
 
 ### 🚀 Passion for Innovation
 - Technology is more than just a career—it’s a way of life.  
-- I approach every project with **curiosity**, **enthusiasm**, and **determination**, driven by the belief that **Data Engineering**, **AI**, **Data Science**, and **Machine Learning**—particularly **Data Engineering across complex end-to-end systems**—are key to delivering transformative solutions in today’s fast-paced digital landscape.
+- I approach every project with **curiosity**, **enthusiasm**, and **determination**, driven by the belief that **Data Engineering**, **AI**, **Data Science**, and **Machine Learning**—especially **Data Engineering across complex end-to-end systems**—are keys to delivering transformative solutions in today’s fast-paced digital landscape.
 
 ---
 
@@ -50,6 +50,6 @@ This skill set enables me to clean, visualize, and analyze geospatial datasets, 
 
 ### 🤝 Connect & Explore
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/genxdata58296/)  
-- **GitHub Projects**: Check out my portfolio dedicated to **ML**, **DL**, and **Data Engineering** [here](https://github.com/sylver86?tab=repositories).
+- **GitHub Projects**: Check out my portfolio dedicated to **ML**, **DL**, **Data Engineering**, and more [here](https://github.com/sylver86?tab=repositories).
 
-I’m excited to **collaborate**, **innovate**, and **push boundaries** in **Data Engineering**, AI, and Data Science. If you share the same passion or have a project in mind, feel free to reach out!
+I’m excited to **collaborate**, **innovate**, and **push boundaries** in **Data Engineering**, AI, Data Science, and beyond. If you share the same passion or have a project in mind, feel free to reach out!
