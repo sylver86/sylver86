@@ -1,34 +1,19 @@
-### Hi there! 👋  
-I’m **Eugenio Pasqua**, holding a **Bachelor’s Degree in Computer Science** from the University of Catania and **7 years** of experience in Data Science. I blend **Data Engineering** and **Machine Learning** to deliver impactful solutions.
-<br>
-Technology is my way of life—fueled by **curiosity**, **enthusiasm**, and **determination**  
+### 👋 Hi there!  
+I’m **Eugenio Pasqua**, a **Computer Science graduate** with **7 years** of experience in **Data Science**, specializing in **Data Engineering** and **Machine Learning**. Driven by **curiosity**, **enthusiasm**, and **determination**.
 
- 
+### ⚙️ Data Engineering  
+**Pipelines**: SSIS, Azure Data Factory | **OLAP**: SSAS  
+**Visualizations**: Power BI, Qlik, Tableau, SSRS  
+**Databases**: SQL Server (admin), T-SQL, PLSQL | **Languages**: Python, Java  
 
-### 🔧 Data Engineering & Analysis
-- **Pipelines & OLAP**: SSIS, Azure Data Factory, SSAS  
-- **Visualizations**: Power BI, Qlik, Tableau, SSRS  
-- **DB Expertise**: SQL Server admin, query optimization, T-SQL, PLSQL, data modeling, SQL Developer
-- **Programming Languages**: Python, Java
+### 🌍 Geospatial Analysis  
+**Tools**: Geopandas, QGIS, ArcGIS | **Focus**: Spatial data cleaning, visualization, and insights  
 
- 
+### 🤖 AI & Goals  
+**Master’s in Data Science (completed)**: ML, DL, NLP, Computer Vision, Python, Big Data  
+**Next Step**: AI Engineering program (focus on **neural networks** and **MLOps**)  
 
-### 🗺️ Geospatial Analysis
-- **GIS Tools**: Python (Geopandas), QGIS, ArcGIS  
-- **Focus**: Cleaning, visualizing, and analyzing location-based data for spatial insights
+### 🔗 Connect & Explore  
+[**LinkedIn**](https://www.linkedin.com/in/genxdata58296/) | [**GitHub Projects**](https://github.com/sylver86?tab=repositories)  
 
-
- 
-
-### 🤖 AI Engineering Ambitions
-- **Master’s in Data Science (completed)**: ML, DL, NLP, Computer Vision, C++, Python, Big Data  
-- **Future AI Program**: Deeper focus on neural networks and MLOps for end-to-end AI solutions  
-- **Synergy**: Data Engineering + ML = cutting-edge skills for real-world innovation
-
- 
-
-### 🤝 Connect & Explore
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/genxdata58296/)  
-- **GitHub**: See my **ML**, **DL**, **Data Engineering** projects [here](https://github.com/sylver86?tab=repositories).  
-
-**Open to collaborations** in Data Engineering and AI—feel free to reach out!
+**Let’s collaborate!** 🚀
