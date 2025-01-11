@@ -6,7 +6,7 @@ I’m **Eugenio Pasqua**, an IT professional with **7 years** in Data Science, b
 ### 🔧 Data Engineering & Analysis
 - **Pipelines & OLAP**: SSIS, Azure Data Factory, SSAS  
 - **Visualizations**: Power BI, Qlik, Tableau, SSRS  
-- **DB Expertise**: SQL Server admin, query optimization, data modeling
+- **DB Expertise**: SQL Server admin, query optimization, T-SQL, PLSQL, data modeling
 
 ---
 
