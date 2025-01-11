@@ -11,7 +11,7 @@ I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **10 years of han
 ---
 
 ### 📌 Data Engineering Specialization
-- In addition to my AI-focused path, I’m currently pursuing a **Master’s in Data Engineering** to strengthen my skills in **DevOps**, **streaming**, **cloud**, and advanced analytics.
+- In addition to my AI-focused path, I’m currently pursuing a **Master’s in Data Engineering** to strengthen my skills in **DevOps**, **streaming** and **cloud platform**.
 - I want to develop various projects under this specialization, focusing on end-to-end data pipelines and advanced data solutions.
 - I’m also on track to earn the **Microsoft Certified: Azure Data Engineer Associate** certification, reflecting my dedication to **end-to-end** data engineering solutions across various complex systems.
 
