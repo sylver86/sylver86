@@ -14,12 +14,6 @@ I’m **Eugenio Pasqua**, holding a **Bachelor’s Degree in Computer Science** 
 - **GIS Tools**: Python (Geopandas), QGIS, ArcGIS  
 - **Focus**: Cleaning, visualizing, and analyzing location-based data for spatial insights
 
----
-
-### 📌 Data Engineering Specialization
-- **Master’s in Data Engineering (ongoing)**: DevOps, data streaming, cloud (Azure/AWS/Snowflake)  
-- **Projects**: Building end-to-end pipelines and advanced data solutions  
-- **Goal**: Microsoft Certified: Azure Data Engineer Associate
 
 ---
 
