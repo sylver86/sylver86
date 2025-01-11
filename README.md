@@ -6,7 +6,8 @@ I’m **Eugenio Pasqua**, holding a **Bachelor’s Degree in Computer Science** 
 ### 🔧 Data Engineering & Analysis
 - **Pipelines & OLAP**: SSIS, Azure Data Factory, SSAS  
 - **Visualizations**: Power BI, Qlik, Tableau, SSRS  
-- **DB Expertise**: SQL Server admin, query optimization, T-SQL, PLSQL, data modeling
+- **DB Expertise**: SQL Server admin, query optimization, T-SQL, PLSQL, data modeling, SQL Developer
+- **Programming Languages**: Python, Java
 
 ---
 
