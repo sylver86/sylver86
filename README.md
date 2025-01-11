@@ -1,6 +1,8 @@
 ### 👋 Hi there!  
 I’m **Eugenio Pasqua**, a **Computer Science graduate** with **7 years** of experience in **Data Science**, specializing in **Data Engineering** and **Machine Learning**. Driven by **curiosity**, **enthusiasm**, and **determination**.
 
+### About Me
+
 ### ⚙️ Data Engineering  
 **Pipelines**: SSIS, Azure Data Factory | **OLAP**: SSAS  
 **Visualizations**: Power BI, Qlik, Tableau, SSRS  
