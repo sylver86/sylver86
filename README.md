@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **7 years of hands-on experience** in the Data Science field. I thrive at the intersection of **Data Engineering and Machine Learning**, consistently seeking new challenges and innovations.
+I'm **Eugenio Pasqua**, a seasoned IT professional with nearly **7 years of hands-on experience** in the Data Science field. 
+I thrive at the intersection of **Data Engineering and Machine Learning**, consistently seeking new challenges and innovations.
 
 ---
 
