@@ -1,5 +1,5 @@
 ### 👋 Hi there!  
-I’m **Eugenio Pasqua**, a **Computer Science graduate** with **7 years** of experience in **Data Science**, specializing in **Data Engineering** and **Machine Learning**. Driven by **curiosity**, **enthusiasm**, and **determination**.
+I’m **Eugenio Pasqua**, a **Computer Science graduate** with **10 years** of experience in **Data Science**, specializing in **Data Engineering** and **Machine Learning**. Driven by **curiosity**, **enthusiasm**, and **determination**.
 
 ### About Me
 
