@@ -11,7 +11,7 @@ I work at the intersection of **Data Engineering** and **applied AI** — buildi
 
 | | |
 |---|---|
-| 📚 **Master in Data Engineering** | dbt · Data Mesh · Medallion Architecture · Cloud DWH (BigQuery, Snowflake) · Pipeline Design · FinOps · Python |
+| 📚 **Master in Data Engineering** | Architected and deployed end-to-end cloud-native data pipelines across **AWS** and **Azure Data Factory**. Implemented **Medallion Architecture** using **dbt**, **Snowflake**, and **BigQuery**. Applied modern data modeling (Data Mesh), cost optimization (FinOps), and scalable ETL/ELT design. |
 | 📚 **Master in Data Science** | ML · Deep Learning · NLP · Computer Vision · Big Data · Python |
 | 🏅 **dbt Developer Certified** | Transformation, testing, documentation, CI/CD for analytics |
 
