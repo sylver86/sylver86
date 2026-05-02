@@ -2,7 +2,7 @@
 
 **Data Engineer & AI/ML Practitioner** · 🇮🇹 Italy
 
-10+ years of experience designing and operating enterprise data systems across BI, ETL, cloud-native architectures and distributed computing.<br>
+10+ years of experience designing and operating enterprise data systems across BI, ETL, cloud-native architectures and distributed computing.<br><br>
 I work at the intersection of **Data Engineering** and **applied AI** — building robust pipelines, scalable data models, and intelligent solutions grounded in real-world constraints.
 
 
