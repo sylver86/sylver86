@@ -1,6 +1,6 @@
 # Hi, I'm Eugenio Pasqua 👋
 
-**Data Engineer · Data Scientist · AI/ML Practitioner** · 🇮🇹 Italy
+**Data Engineer & AI/ML Practitioner** · 🇮🇹 Italy
 
 10+ years of experience designing and operating enterprise data systems across BI, ETL, cloud-native architectures and distributed computing.
 I work at the intersection of **Data Engineering** and **applied AI** — building robust pipelines, scalable data models, and intelligent solutions grounded in real-world constraints.
