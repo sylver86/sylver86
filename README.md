@@ -1,14 +1,9 @@
 # Hi, I'm Eugenio Pasqua 👋
 
-> *"Data is the new electricity — and I am here to wire it right."*
+**Data Engineer · Data Scientist · AI/ML Practitioner** · 🇮🇹 Italy
 
-**Senior Data Engineering Analyst & Data Scientist** · Aspiring **AI/MLOps Engineer** · 🇮🇹 Italy
-
-I have spent **10+ years** designing and operating enterprise data systems, and I have never stopped learning.
-My path has led me from classical BI and ETL pipelines to the **modern data stack**, from SQL to **distributed computing**, and now toward the intersection of **Data Engineering and Artificial Intelligence**.
-What drives me is not just building pipelines that work — it is building systems that *think*.
-
-I am actively targeting roles in **modern Data Engineering and AI/MLOps** at companies that treat data as a strategic asset: energy, defence, infrastructure, and advanced consulting.
+10+ years of experience designing and operating enterprise data systems across BI, ETL, cloud-native architectures and distributed computing.
+I work at the intersection of **Data Engineering** and **applied AI** — building robust pipelines, scalable data models, and intelligent solutions grounded in real-world constraints.
 
 ---
 
@@ -33,7 +28,7 @@ I am actively targeting roles in **modern Data Engineering and AI/MLOps** at com
 **Data Warehousing & Databases**
 `Snowflake` `BigQuery` `SQL Server` `MongoDB` `PostgreSQL`
 
-**AI / ML / MLOps**
+**AI / ML**
 `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `NLP` `MLflow`
 
 **Languages**
@@ -92,7 +87,7 @@ I am actively targeting roles in **modern Data Engineering and AI/MLOps** at com
 
 ## 🌍 Geospatial
 
-Passionate about **spatial data** and its applications in energy infrastructure, smart cities, and environmental analysis.
+Experience with **spatial data** applied to infrastructure, smart cities, and environmental analysis.
 `Geopandas` · `QGIS` · `ArcGIS` · Spatial ETL · Open Data
 
 ---
@@ -101,6 +96,4 @@ Passionate about **spatial data** and its applications in energy infrastructure,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genxdata58296/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sylver86?tab=repositories)
-
-**Open to senior Data Engineering and AI/MLOps opportunities.** Let's build something that matters. 🚀
 
