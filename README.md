@@ -1,62 +1,106 @@
-# Ciao, sono Eugenio 👋
+# Hi, I'm Eugenio Pasqua 👋
 
-**Data Engineering Analyst & Data Scientist** | Aspiring AI Engineer — Italy
+> *"Data is the new electricity — and I am here to wire it right."*
+
+**Senior Data Engineering Analyst & Data Scientist** · Aspiring **AI/MLOps Engineer** · 🇮🇹 Italy
+
+I have spent **10+ years** designing and operating enterprise data systems, and I have never stopped learning.
+My path has led me from classical BI and ETL pipelines to the **modern data stack**, from SQL to **distributed computing**, and now toward the intersection of **Data Engineering and Artificial Intelligence**.
+What drives me is not just building pipelines that work — it is building systems that *think*.
+
+I am actively targeting roles in **modern Data Engineering and AI/MLOps** at companies that treat data as a strategic asset: energy, defence, infrastructure, and advanced consulting.
 
 ---
 
-## 🗂️ Portfolio Progetti
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 📚 **Master in Data Engineering** | dbt · Data Mesh · Medallion Architecture · Cloud DWH (BigQuery, Snowflake) · Pipeline Design · FinOps · Python |
+| 📚 **Master in Data Science** | ML · Deep Learning · NLP · Computer Vision · Big Data · Python |
+| 🏅 **dbt Developer Certified** | Transformation, testing, documentation, CI/CD for analytics |
+
+---
+
+## ⚙️ Technical Stack
+
+**Data Engineering**
+`dbt Core/Cloud` `Apache Spark` `PySpark` `Azure Data Factory` `SSIS` `Databricks` `Airflow`
+
+**Cloud & Infrastructure**
+`Microsoft Azure` `Google Cloud Platform` `BigQuery` `Dataproc` `Terraform`
+
+**Data Warehousing & Databases**
+`Snowflake` `BigQuery` `SQL Server` `MongoDB` `PostgreSQL`
+
+**AI / ML / MLOps**
+`Scikit-learn` `TensorFlow` `Keras` `OpenCV` `NLP` `MLflow`
+
+**Languages**
+`Python` `SQL` `T-SQL` `PL/SQL` `R` `Java`
+
+**BI & Visualization**
+`Power BI` `Tableau` `Qlik` `SSRS` `SSAS`
+
+**Other**
+`Git` `GitHub` `Docker` `Geopandas` `QGIS`
+
+---
+
+## 🗂️ Project Portfolio
 
 ### ⚙️ Data Engineering & Cloud
 
-| # | Progetto | Stack |
-|---|----------|-------|
-| 01 | [Aero Grid Platform](https://github.com/sylver86/01-aero-grid-platform-dbt-python) | dbt · Python |
-| 02 | [Azure Data Pipeline](https://github.com/sylver86/02-azure-data-pipeline-terraform-adf) | Terraform · Azure Data Factory |
-| 03 | [Piste Ciclabili Bologna](https://github.com/sylver86/03-piste-ciclabili-bologna-data-engineering) | Python · Data Engineering |
-| 04 | [Wikipedia Big Data Analysis](https://github.com/sylver86/04-wikipedia-big-data-analysis-pyspark-ml) | PySpark · ML |
-| 05 | [Book Scraper](https://github.com/sylver86/05-book-scraper-python-beautifulsoup) | Python · BeautifulSoup |
+| # | Project | Stack |
+|---|---------|-------|
+| 01 | [Aero Grid Platform](https://github.com/sylver86/01-aero-grid-platform-dbt-python) | dbt · Python · Medallion Architecture |
+| 02 | [Azure Data Pipeline](https://github.com/sylver86/02-azure-data-pipeline-terraform-adf) | Terraform · Azure Data Factory · IaC |
+| 03 | [Piste Ciclabili Bologna](https://github.com/sylver86/03-piste-ciclabili-bologna-data-engineering) | Python · Open Data · ETL |
+| 04 | [Wikipedia Big Data Analysis](https://github.com/sylver86/04-wikipedia-big-data-analysis-pyspark-ml) | PySpark · Distributed ML · BigData |
+| 05 | [Book Scraper](https://github.com/sylver86/05-book-scraper-python-beautifulsoup) | Python · BeautifulSoup · Data Ingestion |
 
 ### 🤖 Machine Learning & AI
 
-| # | Progetto | Stack |
-|---|----------|-------|
-| 06 | [Spam Detection System](https://github.com/sylver86/06-spam-detection-system-nlp-python) | NLP · Python |
-| 07 | [Toxic Comments Classifier](https://github.com/sylver86/07-toxic-comments-classifier-rnn-tensorflow) | RNN · TensorFlow |
-| 08 | [Face Detection Camera](https://github.com/sylver86/08-face-detection-camera-opencv) | OpenCV |
-| 09 | [Insurance Cross-Sell Prediction](https://github.com/sylver86/09-insurance-cross-sell-prediction-scikit-learn) | Scikit-learn |
-| 10 | [MedPredict — Progressione Diabete](https://github.com/sylver86/10-medpredict-progressione-diabete-ml) | ML · Python |
-| 11 | [Modello Peso Neonatale](https://github.com/sylver86/11-modello-peso-neonatale-r-statistica) | R · Statistica |
+| # | Project | Stack |
+|---|---------|-------|
+| 06 | [Spam Detection System](https://github.com/sylver86/06-spam-detection-system-nlp-python) | NLP · Python · Text Classification |
+| 07 | [Toxic Comments Classifier](https://github.com/sylver86/07-toxic-comments-classifier-rnn-tensorflow) | RNN · TensorFlow · Deep Learning |
+| 08 | [Face Detection Camera](https://github.com/sylver86/08-face-detection-camera-opencv) | OpenCV · Computer Vision |
+| 09 | [Insurance Cross-Sell Prediction](https://github.com/sylver86/09-insurance-cross-sell-prediction-scikit-learn) | Scikit-learn · Feature Engineering |
+| 10 | [MedPredict — Diabetes Progression](https://github.com/sylver86/10-medpredict-progressione-diabete-ml) | ML · Python · Medical Data |
+| 11 | [Neonatal Weight Inference Model](https://github.com/sylver86/11-modello-peso-neonatale-r-statistica) | R · Statistical Inference |
 
 ### 📊 Data Analysis & Statistics
 
-| # | Progetto | Stack |
-|---|----------|-------|
-| 12 | [Vendite Immobiliari Texas](https://github.com/sylver86/12-vendite-immobiliari-texas-r) | R |
-| 13 | [Performance Indici Azionari](https://github.com/sylver86/13-performance-indici-azionari-python) | Python · Pandas · Matplotlib |
-| 14 | [Retail Sales Dashboard](https://github.com/sylver86/14-retail-sales-dashboard-tableau) | Tableau |
-| 15 | [Analisi Clienti Bancari](https://github.com/sylver86/15-analisi-clienti-bancari-sql) | SQL |
+| # | Project | Stack |
+|---|---------|-------|
+| 12 | [Texas Real Estate Analysis](https://github.com/sylver86/12-vendite-immobiliari-texas-r) | R · EDA · Statistical Modelling |
+| 13 | [Stock Index Performance](https://github.com/sylver86/13-performance-indici-azionari-python) | Python · Pandas · Matplotlib · Finance |
+| 14 | [Retail Sales Dashboard](https://github.com/sylver86/14-retail-sales-dashboard-tableau) | Tableau · KPI Design |
+| 15 | [Banking Customer Analysis](https://github.com/sylver86/15-analisi-clienti-bancari-sql) | SQL · Advanced Queries · Analytics |
 
-### 🗄️ Database & Backend
+### 🗄️ Database & Software Development
 
-| # | Progetto | Stack |
-|---|----------|-------|
-| 16 | [Rubrica Contatti](https://github.com/sylver86/16-rubrica-contatti-mongodb) | MongoDB |
-| 17 | [Transaction Manager](https://github.com/sylver86/17-transaction-manager-python) | Python |
-| 18 | [Vegan Store Management](https://github.com/sylver86/18-vegan-store-management-python) | Python |
-| 19 | [Daily Task Tracker](https://github.com/sylver86/19-daily-task-tracker-django) | Django |
+| # | Project | Stack |
+|---|---------|-------|
+| 16 | [Contacts Directory](https://github.com/sylver86/16-rubrica-contatti-mongodb) | MongoDB · NoSQL |
+| 17 | [Transaction Manager](https://github.com/sylver86/17-transaction-manager-python) | Python · OOP |
+| 18 | [Vegan Store Management](https://github.com/sylver86/18-vegan-store-management-python) | Python · JSON persistence |
+| 19 | [Daily Task Tracker](https://github.com/sylver86/19-daily-task-tracker-django) | Django · SQLite · Web App |
 
 ---
 
-## 🛠️ Stack Tecnologico
+## 🌍 Geospatial
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+Passionate about **spatial data** and its applications in energy infrastructure, smart cities, and environmental analysis.
+`Geopandas` · `QGIS` · `ArcGIS` · Spatial ETL · Open Data
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genxdata58296/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sylver86?tab=repositories)
+
+**Open to senior Data Engineering and AI/MLOps opportunities.** Let's build something that matters. 🚀
 
